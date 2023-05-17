@@ -1,1 +1,1 @@
-# New-York-City-TLC-TripRecord-Data-Dictionary
+# New York City TLC TripRecord Data Dictionary
