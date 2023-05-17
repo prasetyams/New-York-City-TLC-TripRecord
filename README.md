@@ -62,3 +62,6 @@ Dari analisis yang telah dilakukan, kita bisa membuat kesilpulan berikut tetang 
 2. Diketahui bahwa pada Creative Mobile Technologies, LLC. (VendorID_1) memang jumlahnya lebih sedikit dibandingkan dengan VeriFone. (VendorID_2), maka dari itu sebaiknya Creative Mobile Technologies, LLC. (VendorID_1) lebih meningkatkan performanya berdasarkan passenger_count, total_amount dan trip_distance.
 3. Memberikan preferensi kepada VeriFone (VendorID_2) sebagai pilihan vendor karena menunjukkan kinerja yang lebih baik dalam semua variabel yang diamati. Namun, keputusan akhir harus dipertimbangkan berdasarkan faktor-faktor lain yang relevan, seperti harga, layanan pelanggan, dan ulasan pengguna.
 
+Berikut ini link Tableau:
+https://public.tableau.com/shared/S2Z5GT9KM?:display_count=n&:origin=viz_share_link
+
